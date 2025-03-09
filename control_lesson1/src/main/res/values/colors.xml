@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FDFDFD</color> <!-- Светлый фон -->
+    <color name="textPrimary">#E7CDCD</color> <!-- Основной текст -->
+    <color name="textSecondary">#757575</color> <!-- Второстепенный текст -->
+    <color name="buttonBackground">#16E907</color> <!-- Фон кнопки -->
+    <color name="buttonRipple">#3700B3</color> <!-- Эффект нажатия -->
+    <color name="divider">#E0E0E0</color>
+    <color name="backgroundColor">#F6F8F6</color>
+</resources>
