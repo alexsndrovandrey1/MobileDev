@@ -24,5 +24,32 @@
             android:id="@+id/nav_browser"
             android:icon="@drawable/ic_launcher_foreground"
             android:title="@string/menu_browser" />
+        <item
+            android:id="@+id/nav_sensor"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Датчик" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Камера" />
+        <item
+            android:id="@+id/nav_microphone"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="Микрофон" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Профиль" />
+        <item
+            android:id="@+id/nav_filework"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="Работа с файлами" />
+
+        <item
+            android:id="@+id/networkFragment"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="Данные из сети" />
+
     </group>
 </menu>

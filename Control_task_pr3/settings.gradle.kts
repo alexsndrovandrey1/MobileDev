@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Control_task_pr3"
 include(":app")
- 
+include(":control_task_pr4")
